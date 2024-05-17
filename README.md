@@ -1,10 +1,10 @@
 # Website-about-bears
-<h1>Simple website designed using html (Basics of html)</h1>
+<h2>Simple website designed using html (Basics of html)</h2>
 <ul>
-<li><br>It inludes simple html tags, including lists(ordered & unordered), image & video tags</li>
-<li><br>Like img, video..</li>
-<li><br>Also includes about attributes like width, height, control, id, .....</li>
-<li><br>Tags for specifying text like strong, em, br, span, .....</li></ul>
+<br><li>It inludes simple html tags, including lists(ordered & unordered), image & video tags</li>
+<br><li>Like img, video..</li>
+<br><li>Also includes about attributes like width, height, control, id, .....</li>
+<br><li>Tags for specifying text like strong, em, br, span, .....</li></ul>
 <br><br>
 <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
 
