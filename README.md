@@ -5,7 +5,7 @@
 <br><li>Like img, video..</li>
 <br><li>Also includes about attributes like width, height, control, id, .....</li>
 <br><li>Tags for specifying text like strong, em, br, span, .....</li></ul>
-<br><br>
+<br>
 <h2>This is the Preview of the website</h2>
 <body>
   <h1>The Brown Bear</h1>
@@ -36,6 +36,7 @@
   <div id="media">
     <h2>Media</h2>
     <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
-    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls>Video not supported</video>
+    [![Watch the video](https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls)Video not supported
   </div>
 </body>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
