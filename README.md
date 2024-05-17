@@ -1,7 +1,7 @@
 # Website-about-bears
 Simple website designed using html (Basics of html)
 It inludes simple html tags, including lists(ordered & unordered), image & video tags
-Like <img>, <video>
+Like img, video..
 Also includes about attributes like width, height, control, id, .....
 Tags for specifying text like strong, em, br, span, .....
 
