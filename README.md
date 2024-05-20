@@ -1,5 +1,5 @@
 # Website-about-bears
-<h2>Simple website designed using html (Basics of html)</h2>
+<h2>Simple website designed using html (Basics of html tags)</h2>
 <ul>
 <br><li>This projet helps us learn simple html tags, including lists(ordered & unordered), image & video tags</li>
 <br><li>We can also learn about attributes like width, height, control, id, .....</li>
