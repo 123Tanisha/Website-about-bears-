@@ -2,7 +2,7 @@
 <ul>
 <br><li>This projet helps us learn simple html tags, including lists(ordered & unordered), image & video tags</li>
 <br><li>We can also learn about attributes like width, height, control, id, .....</li>
-<br><li>Tags for specifying text like strong, em, br, span, .....</li></ul>
+<br><li>Tags for specifying text like strong, em, br, span, etc</li></ul>
 
 <h3>Image use in the website:</h3>
 <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
